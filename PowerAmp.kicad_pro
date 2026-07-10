@@ -363,17 +363,47 @@
         },
         {
           "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Type",
+          "name": "Sim.Type",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Sim.Type"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -404,6 +434,14 @@
     "meta": {
       "version": 1
     },
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
@@ -416,7 +454,7 @@
         "uuid": "f3a40bfa-83f5-46f5-84c7-bcd44139818c"
       }
     ],
-    "used_designators": "U1-3,IC1,IC3,R1-2,R4,R6-10,R12,R14,R16,R18,R20,R22,R24,R26,R28,R30,R32-34,R36,R38,R40,R42,R44-47,R50,R52,R54-58,R60,R63-64,R67,R71-73,C1,C3-5,C8-12,C14,C16-22,C24-26,C28-29,C32-33,D1-6,D8-9,D11,D14,D16-17,D19,D21-23,#PWR1-42,Q1-2,Q4-6,Q8,Q10,Q12,Q14,Q16-19,Q21-23,Q26-31,RV1,F1,J1-2,K1-2,TPA_1V3",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
