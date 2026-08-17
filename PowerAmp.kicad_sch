@@ -12011,7 +12011,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
 			(at 502.6152 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -12022,7 +12022,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ca/datasheet/3/497/1/e_ucy.pdf"
 			(at 501.65 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -12035,6 +12035,17 @@
 		)
 		(property "Description" "Polarized capacitor"
 			(at 501.65 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Nichicon UCY2D220MPD"
+			(at 501.65 236.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12172,7 +12183,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Box_L14.0mm_W5.0mm_P9.00mm"
 			(at 446.278 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -12183,7 +12194,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.koaspeer.com/pdfs/BPR.pdf"
 			(at 444.5 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -12195,6 +12206,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 444.5 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "KOA BPR58CR22J"
 			(at 444.5 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -12254,7 +12276,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 255.778 224.79 90)
 			(hide yes)
 			(show_name no)
@@ -12265,7 +12287,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 254 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -12277,6 +12299,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 254 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-1K"
 			(at 254 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -12336,7 +12369,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 193.548 281.94 90)
 			(hide yes)
 			(show_name no)
@@ -12347,7 +12380,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 191.77 281.94 0)
 			(hide yes)
 			(show_name no)
@@ -12359,6 +12392,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 191.77 281.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-2K4"
 			(at 191.77 281.94 0)
 			(hide yes)
 			(show_name no)
@@ -12476,6 +12520,17 @@
 				)
 			)
 		)
+		(property "mfr_id" ""
+			(at 275.59 276.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0fccfc94-7fe8-41c9-8531-cc8c8d66c927")
 		)
@@ -12528,7 +12583,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 440.055 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -12574,6 +12629,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 444.5 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 444.5 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12630,7 +12696,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 73.66 190.1952 0)
 			(hide yes)
 			(show_name no)
@@ -12641,7 +12707,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ca/datasheet/3/497/1/e_uka.pdf"
 			(at 69.85 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -12654,6 +12720,17 @@
 		)
 		(property "Description" "Polarized capacitor"
 			(at 69.85 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Nichicon UKA1H101MPD"
+			(at 69.85 189.23 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12791,7 +12868,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "local_amp_footprints:TO-3PL_TOS"
 			(at 469.9 212.725 0)
 			(hide yes)
 			(show_name no)
@@ -12839,6 +12916,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=B 2=C 3=E"
+			(at 464.82 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" ""
 			(at 464.82 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -12901,7 +12989,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 285.4452 306.07 0)
 			(hide yes)
 			(show_name no)
@@ -12912,7 +13000,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ca/datasheet/3/558/1/e_WIMA_MKP_2.pdf"
 			(at 284.48 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -12924,6 +13012,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 284.48 302.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "WIMA MKP2F031001F00"
 			(at 284.48 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -12981,7 +13080,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal"
 			(at 191.77 362.458 90)
 			(hide yes)
 			(show_name no)
@@ -12992,7 +13091,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.koaspeer.com/pdfs/MOS.pdf"
 			(at 191.77 360.68 0)
 			(hide yes)
 			(show_name no)
@@ -13005,6 +13104,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 191.77 360.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "KOA MOS2CT52R1000F"
+			(at 191.77 360.68 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13061,7 +13171,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 411.7848 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -13072,7 +13182,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ca/datasheet/3/558/1/e_WIMA_MKP_2.pdf"
 			(at 412.75 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -13085,6 +13195,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 412.75 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "WIMA MKP2F031001F00"
+			(at 412.75 241.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13140,7 +13261,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm"
 			(at 366.0648 254 0)
 			(hide yes)
 			(show_name no)
@@ -13151,7 +13272,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/catalog/specsheets/Panasonic_08082018_Capacitor%20Radial%20Leaded%20Lytic%20(EEU-FS)%20020118.pdf"
 			(at 367.03 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -13164,6 +13285,17 @@
 		)
 		(property "Description" "Polarized capacitor"
 			(at 367.03 257.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Panasonic EEU-FS2A331L"
+			(at 367.03 257.81 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13222,7 +13354,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 419.862 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -13233,7 +13365,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 421.64 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -13245,6 +13377,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 421.64 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FRE52-390R"
 			(at 421.64 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -13304,7 +13447,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 196.215 289.56 0)
 			(hide yes)
 			(show_name no)
@@ -13350,6 +13493,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 191.77 289.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 191.77 289.56 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13408,7 +13562,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 337.312 193.04 90)
 			(hide yes)
 			(show_name no)
@@ -13419,7 +13573,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 339.09 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -13431,6 +13585,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 339.09 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-240R"
 			(at 339.09 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -13490,7 +13655,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 69.5452 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -13501,7 +13666,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.wima.de/wp-content/uploads/media/e_WIMA_FKP_2.pdf"
 			(at 68.58 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -13513,6 +13678,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 68.58 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "WIMA FKP2D011501D00HSSD"
 			(at 68.58 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -13572,7 +13748,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 276.352 74.93 90)
 			(hide yes)
 			(show_name no)
@@ -13583,7 +13759,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/28737/nfr25.pdf"
 			(at 278.13 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -13595,6 +13771,17 @@
 			)
 		)
 		(property "Description" "Fuse"
+			(at 278.13 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Vishay NFR25H0001500JR500"
 			(at 278.13 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -13651,7 +13838,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
 			(at 502.6152 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -13662,7 +13849,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ca/datasheet/3/497/1/e_ucy.pdf"
 			(at 501.65 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -13675,6 +13862,17 @@
 		)
 		(property "Description" "Polarized capacitor"
 			(at 501.65 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Nichicon UCY2D220MPD"
+			(at 501.65 144.78 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13733,7 +13931,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 384.175 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -13779,6 +13977,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 379.73 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 379.73 209.55 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13837,7 +14046,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 193.548 111.76 90)
 			(hide yes)
 			(show_name no)
@@ -13848,7 +14057,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 191.77 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -13860,6 +14069,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 191.77 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-22R"
 			(at 191.77 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -13917,7 +14137,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
 			(at 330.2 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -13940,6 +14160,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 330.2 372.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
 			(at 330.2 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -13997,7 +14228,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
 			(at 111.76 153.162 90)
 			(hide yes)
 			(show_name no)
@@ -14008,7 +14239,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/31018/cmfind.pdf"
 			(at 111.76 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -14021,6 +14252,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 111.76 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Vishay Dale CMF50332R00FHEB"
+			(at 111.76 154.94 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14235,7 +14477,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 360.3752 226.06 0)
 			(hide yes)
 			(show_name no)
@@ -14246,7 +14488,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1054_HIVOLT_GOLDMAX_300_C0G"
 			(at 359.41 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -14258,6 +14500,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 359.41 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "KEMET C322C331JCG5TA"
 			(at 359.41 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -14317,7 +14570,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 419.1 153.162 90)
 			(hide yes)
 			(show_name no)
@@ -14328,7 +14581,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 419.1 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -14340,6 +14593,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 419.1 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FRE52-2R2"
 			(at 419.1 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -14399,7 +14663,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 85.852 43.18 90)
 			(hide yes)
 			(show_name no)
@@ -14410,7 +14674,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 87.63 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -14422,6 +14686,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 87.63 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-24K"
 			(at 87.63 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -14478,7 +14753,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DIP8_NWJ"
+		(property "Footprint" "local_amp_footprints:DIP8_NMD"
 			(at 65.532 162.052 0)
 			(hide yes)
 			(show_name no)
@@ -14504,6 +14779,17 @@
 		)
 		(property "Description" ""
 			(at 60.96 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" ""
+			(at 59.69 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14580,7 +14866,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 42.418 123.19 90)
 			(hide yes)
 			(show_name no)
@@ -14591,7 +14877,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/31018/cmfind.pdf"
 			(at 40.64 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -14603,6 +14889,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 40.64 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Vishay Dale CMF50715R00FHEB"
 			(at 40.64 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -14662,7 +14959,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 193.548 231.14 90)
 			(hide yes)
 			(show_name no)
@@ -14673,7 +14970,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 191.77 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -14685,6 +14982,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 191.77 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-2K4"
 			(at 191.77 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -14744,7 +15052,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 255.778 288.29 90)
 			(hide yes)
 			(show_name no)
@@ -14755,7 +15063,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 254 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -14767,6 +15075,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 254 288.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-1K"
 			(at 254 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -14826,7 +15145,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 			(at 359.41 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -14850,6 +15169,17 @@
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
 			(at 359.41 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" ""
+			(at 359.41 209.55 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14903,7 +15233,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
 			(at 24.13 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -14926,6 +15256,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 24.13 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
 			(at 24.13 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -14985,7 +15326,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal"
 			(at 400.812 176.53 90)
 			(hide yes)
 			(show_name no)
@@ -14996,7 +15337,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.koaspeer.com/pdfs/MOS.pdf"
 			(at 402.59 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -15008,6 +15349,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 402.59 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "KOA MOS2CT52A470J"
 			(at 402.59 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -15145,7 +15497,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 433.07 160.528 90)
 			(hide yes)
 			(show_name no)
@@ -15156,7 +15508,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 433.07 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -15168,6 +15520,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 433.07 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-680R"
 			(at 433.07 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -15225,7 +15588,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 88.9 87.122 90)
 			(hide yes)
 			(show_name no)
@@ -15236,7 +15599,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/31018/cmfind.pdf"
 			(at 88.9 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -15249,6 +15612,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 88.9 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Vishay Dale CMF501K0000FHEA"
+			(at 88.9 88.9 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15305,7 +15679,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 139.7 258.318 90)
 			(hide yes)
 			(show_name no)
@@ -15316,7 +15690,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 139.7 256.54 0)
 			(hide yes)
 			(show_name no)
@@ -15329,6 +15703,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 139.7 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-100R"
+			(at 139.7 256.54 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15523,6 +15908,17 @@
 				)
 			)
 		)
+		(property "mfr_id" ""
+			(at 189.23 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "95a0008a-6e71-400b-8310-fa60e32bf238")
 		)
@@ -15575,7 +15971,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal"
 			(at 339.09 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -15631,6 +16027,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=r0 2=wiper 3=r1"
+			(at 339.09 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
 			(at 339.09 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -15770,7 +16177,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 551.18 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -15793,6 +16200,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 551.18 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
 			(at 551.18 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -15937,7 +16355,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 193.548 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -15948,7 +16366,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 191.77 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -15960,6 +16378,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 191.77 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-22R"
 			(at 191.77 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -16019,7 +16448,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 216.408 289.56 90)
 			(hide yes)
 			(show_name no)
@@ -16030,7 +16459,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 214.63 289.56 0)
 			(hide yes)
 			(show_name no)
@@ -16042,6 +16471,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 214.63 289.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-5K6"
 			(at 214.63 289.56 0)
 			(hide yes)
 			(show_name no)
@@ -16101,7 +16541,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 255.778 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -16112,7 +16552,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 254 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -16124,6 +16564,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 254 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-1K"
 			(at 254 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -16181,7 +16632,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 88.9 135.382 90)
 			(hide yes)
 			(show_name no)
@@ -16192,7 +16643,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/31018/cmfind.pdf"
 			(at 88.9 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16205,6 +16656,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 88.9 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Vishay Dale CMF501K0000FHEA"
+			(at 88.9 137.16 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16261,7 +16723,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm"
 			(at 366.0648 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -16272,7 +16734,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/catalog/specsheets/Panasonic_08082018_Capacitor%20Radial%20Leaded%20Lytic%20(EEU-FS)%20020118.pdf"
 			(at 367.03 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -16285,6 +16747,17 @@
 		)
 		(property "Description" "Polarized capacitor"
 			(at 367.03 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Panasonic EEU-FS2A331L"
+			(at 367.03 121.92 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16341,7 +16814,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P20.32mm_Horizontal"
 			(at 54.61 185.928 90)
 			(hide yes)
 			(show_name no)
@@ -16352,7 +16825,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 54.61 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -16365,6 +16838,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 54.61 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "KOA MOS3CT631R562J"
+			(at 54.61 184.15 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16423,7 +16907,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 276.352 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -16434,7 +16918,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/28737/nfr25.pdf"
 			(at 278.13 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -16446,6 +16930,17 @@
 			)
 		)
 		(property "Description" "Fuse"
+			(at 278.13 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Vishay NFR25H0001500JR500"
 			(at 278.13 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -16483,7 +16978,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4ae2daaa-cee3-410f-84ae-a1deefdf5d7e")
-		(property "Reference" "C33"
+		(property "Reference" "C25"
 			(at 120.65 364.49 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16503,7 +16998,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W3.0mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 124.46 373.0752 0)
 			(hide yes)
 			(show_name no)
@@ -16514,7 +17009,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ca/datasheet/3/558/1/e_WIMA_MKP_2.pdf"
 			(at 120.65 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -16536,6 +17031,17 @@
 				)
 			)
 		)
+		(property "mfr_id" "WIMA MKP2G022201E00JO00"
+			(at 120.65 372.11 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fafc0b31-91df-4be8-b306-9a241a1d47f1")
 		)
@@ -16545,7 +17051,7 @@
 		(instances
 			(project "PowerAmp"
 				(path "/f3a40bfa-83f5-46f5-84c7-bcd44139818c"
-					(reference "C33")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -16661,7 +17167,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P20.32mm_Horizontal"
 			(at 54.61 300.228 90)
 			(hide yes)
 			(show_name no)
@@ -16672,7 +17178,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.koaspeer.com/pdfs/MOS.pdf"
 			(at 54.61 298.45 0)
 			(hide yes)
 			(show_name no)
@@ -16685,6 +17191,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 54.61 298.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "KOA MOS3CT631R562J"
+			(at 54.61 298.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16791,6 +17308,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=E 2=C 3=B"
+			(at 251.46 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" ""
 			(at 251.46 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -17008,7 +17536,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P20.32mm_Horizontal"
 			(at 100.33 170.942 90)
 			(hide yes)
 			(show_name no)
@@ -17019,7 +17547,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/28729/pr010203.pdf"
 			(at 100.33 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -17032,6 +17560,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 100.33 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Vishay PR03000202211FAC00"
+			(at 100.33 172.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17088,7 +17627,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W3.0mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 500.6848 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -17099,7 +17638,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ca/datasheet/3/558/1/e_WIMA_MKP_2.pdf"
 			(at 501.65 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -17112,6 +17651,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 501.65 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "WIMA MKP2G022201E00JO00"
+			(at 501.65 171.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17170,7 +17720,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Box_L14.0mm_W5.0mm_P9.00mm"
 			(at 446.278 193.04 90)
 			(hide yes)
 			(show_name no)
@@ -17181,7 +17731,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.koaspeer.com/pdfs/BPR.pdf"
 			(at 444.5 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -17193,6 +17743,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 444.5 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "KOA BPR58CR22J"
 			(at 444.5 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -17330,7 +17891,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 303.2252 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -17341,7 +17902,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ca/datasheet/3/558/1/e_WIMA_MKP_2.pdf"
 			(at 302.26 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -17353,6 +17914,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 302.26 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "WIMA MKP2F031001F00"
 			(at 302.26 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -17647,7 +18219,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Box_L14.0mm_W5.0mm_P9.00mm"
 			(at 469.138 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -17658,7 +18230,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.koaspeer.com/pdfs/BPR.pdf"
 			(at 467.36 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -17670,6 +18242,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 467.36 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "KOA BPR58CR22J"
 			(at 467.36 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -17807,7 +18390,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 216.408 223.52 90)
 			(hide yes)
 			(show_name no)
@@ -17818,7 +18401,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 214.63 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -17830,6 +18413,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 214.63 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-5K6"
 			(at 214.63 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -17889,7 +18483,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 196.215 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -17935,6 +18529,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 191.77 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 191.77 139.7 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18071,7 +18676,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 104.14 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -18095,6 +18700,17 @@
 		)
 		(property "Description" "Zener diode"
 			(at 104.14 264.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 104.14 264.16 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18151,7 +18767,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 92.71 131.1148 0)
 			(hide yes)
 			(show_name no)
@@ -18162,7 +18778,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.wima.de/wp-content/uploads/media/e_WIMA_FKP_2.pdf"
 			(at 88.9 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -18175,6 +18791,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 88.9 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "WIMA FKP2D003301D00HA00"
+			(at 88.9 132.08 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18233,7 +18860,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 255.778 74.93 90)
 			(hide yes)
 			(show_name no)
@@ -18244,7 +18871,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 254 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -18256,6 +18883,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 254 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-1K"
 			(at 254 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -18315,7 +18953,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 193.548 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -18326,7 +18964,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 191.77 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -18338,6 +18976,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 191.77 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-2K4"
 			(at 191.77 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -18397,7 +19046,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical"
 			(at 179.07 363.22 0)
 			(hide yes)
 			(show_name no)
@@ -18420,6 +19069,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
+			(at 179.07 363.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
 			(at 179.07 363.22 0)
 			(hide yes)
 			(show_name no)
@@ -18479,7 +19139,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 490.22 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -18503,6 +19163,17 @@
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
 			(at 490.22 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" ""
+			(at 490.22 118.11 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18561,7 +19232,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 372.745 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -18607,6 +19278,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 377.19 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 377.19 220.98 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18663,7 +19345,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 68.58 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -18686,6 +19368,17 @@
 			)
 		)
 		(property "Description" "Zener diode"
+			(at 68.58 302.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
 			(at 68.58 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -18745,7 +19438,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-126-3_Vertical"
+		(property "Footprint" "local_amp_footprints:TO-126_TOS"
 			(at 351.79 133.985 0)
 			(hide yes)
 			(show_name no)
@@ -18794,6 +19487,17 @@
 		)
 		(property "Sim.Pins" "1=E 2=C 3=B"
 			(at 346.71 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" ""
+			(at 346.71 135.89 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18931,7 +19635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:Diode_Bridge_Vishay_GBU"
+		(property "Footprint" "Diode_THT:Diode_Bridge_19.0x3.5x10.0mm_P5.0mm"
 			(at 257.175 368.3 0)
 			(hide yes)
 			(show_name no)
@@ -18956,6 +19660,17 @@
 		)
 		(property "Description" "Single-Phase Bridge Rectifier, 35V Vrms, 4.0A If, GBU package"
 			(at 260.35 372.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 260.35 372.11 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19018,7 +19733,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 411.7848 127 0)
 			(hide yes)
 			(show_name no)
@@ -19029,7 +19744,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ca/datasheet/3/558/1/e_WIMA_MKP_2.pdf"
 			(at 412.75 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -19042,6 +19757,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 412.75 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "WIMA MKP2F031001F00"
+			(at 412.75 123.19 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19178,7 +19904,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 163.068 232.41 90)
 			(hide yes)
 			(show_name no)
@@ -19189,7 +19915,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 161.29 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -19201,6 +19927,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 161.29 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-22R"
 			(at 161.29 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -19258,7 +19995,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W5.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 388.62 157.7848 0)
 			(hide yes)
 			(show_name no)
@@ -19269,7 +20006,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.wima.de/wp-content/uploads/media/e_WIMA_FKP_2.pdf"
 			(at 392.43 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -19282,6 +20019,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 392.43 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "WIMA FKP2D016801G00HA00"
+			(at 392.43 158.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19476,6 +20224,17 @@
 				)
 			)
 		)
+		(property "mfr_id" ""
+			(at 275.59 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "705ef110-eefd-4b29-bef9-dedf59217881")
 		)
@@ -19576,6 +20335,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=E 2=C 3=B"
+			(at 275.59 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" ""
 			(at 275.59 127 0)
 			(hide yes)
 			(show_name no)
@@ -19696,6 +20466,17 @@
 				)
 			)
 		)
+		(property "mfr_id" ""
+			(at 275.59 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3762ce60-f6ce-4af6-a5a3-552716c75dd3")
 		)
@@ -19746,7 +20527,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 285.75 385.318 90)
 			(hide yes)
 			(show_name no)
@@ -19757,7 +20538,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773218&DocType=DS&DocLang=English"
 			(at 285.75 383.54 0)
 			(hide yes)
 			(show_name no)
@@ -19770,6 +20551,17 @@
 		)
 		(property "Description" "Fuse"
 			(at 285.75 383.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "TE Connectivity FRN25JR47"
+			(at 285.75 383.54 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19825,7 +20617,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 114.3 254.508 90)
 			(hide yes)
 			(show_name no)
@@ -19836,7 +20628,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 114.3 252.73 0)
 			(hide yes)
 			(show_name no)
@@ -19849,6 +20641,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 114.3 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-33K"
+			(at 114.3 252.73 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19907,7 +20710,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W5.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 215.5952 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -19918,7 +20721,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.wima.de/wp-content/uploads/media/e_WIMA_FKP_2.pdf"
 			(at 214.63 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -19930,6 +20733,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 214.63 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "WIMA FKP2J014701I00HSSD"
 			(at 214.63 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -20125,6 +20939,17 @@
 				)
 			)
 		)
+		(property "mfr_id" ""
+			(at 158.75 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "feba522d-910a-43d1-98f8-54ee2845bcac")
 		)
@@ -20177,7 +21002,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 323.342 181.61 90)
 			(hide yes)
 			(show_name no)
@@ -20188,7 +21013,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 325.12 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -20200,6 +21025,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 325.12 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-75K"
 			(at 325.12 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -20257,7 +21093,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 144.78 185.928 90)
 			(hide yes)
 			(show_name no)
@@ -20268,7 +21104,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 144.78 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -20281,6 +21117,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 144.78 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-15K"
+			(at 144.78 184.15 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20339,7 +21186,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "local_amp_footprints:TO-220_2-10R1A_TOS"
 			(at 405.13 150.495 0)
 			(hide yes)
 			(show_name no)
@@ -20387,6 +21234,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=B 2=C 3=E"
+			(at 400.05 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" ""
 			(at 400.05 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -20449,7 +21307,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 337.312 163.83 90)
 			(hide yes)
 			(show_name no)
@@ -20460,7 +21318,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 339.09 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -20472,6 +21330,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 339.09 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-1K"
 			(at 339.09 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -20531,7 +21400,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 325.12 127 0)
 			(hide yes)
 			(show_name no)
@@ -20555,6 +21424,17 @@
 		)
 		(property "Description" "Zener diode"
 			(at 325.12 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 325.12 127 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20689,7 +21569,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 140.97 76.708 90)
 			(hide yes)
 			(show_name no)
@@ -20700,7 +21580,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 140.97 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -20713,6 +21593,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 140.97 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-15K"
+			(at 140.97 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20771,7 +21662,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 216.408 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -20782,7 +21673,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 214.63 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -20794,6 +21685,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 214.63 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-5K6"
 			(at 214.63 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -20932,7 +21834,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 384.175 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -20978,6 +21880,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 379.73 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 379.73 153.67 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21034,7 +21947,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm"
 			(at 378.7648 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -21045,7 +21958,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/catalog/specsheets/Panasonic_08082018_Capacitor%20Radial%20Leaded%20Lytic%20(EEU-FS)%20020118.pdf"
 			(at 379.73 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -21058,6 +21971,17 @@
 		)
 		(property "Description" "Polarized capacitor"
 			(at 379.73 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Panasonic EEU-FS2A331L"
+			(at 379.73 121.92 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21114,7 +22038,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
 			(at 226.06 320.802 90)
 			(hide yes)
 			(show_name no)
@@ -21125,7 +22049,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/31018/cmfind.pdf"
 			(at 226.06 322.58 0)
 			(hide yes)
 			(show_name no)
@@ -21138,6 +22062,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 226.06 322.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Vishay Dale CMF504K4200FHEB"
+			(at 226.06 322.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21193,7 +22128,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
 			(at 468.3252 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -21204,7 +22139,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ca/datasheet/3/3655/1/ZLJ.pdf"
 			(at 467.36 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -21217,6 +22152,17 @@
 		)
 		(property "Description" "Polarized capacitor"
 			(at 467.36 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Rubycon 50ZLJ3300M18X35.5"
+			(at 467.36 238.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21353,7 +22299,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 104.14 273.05 0)
 			(hide yes)
 			(show_name no)
@@ -21377,6 +22323,17 @@
 		)
 		(property "Description" "Zener diode"
 			(at 104.14 273.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 104.14 273.05 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21493,6 +22450,17 @@
 				)
 			)
 		)
+		(property "mfr_id" ""
+			(at 158.75 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d8c40ef5-81c3-4d40-a2da-be9f92697837")
 		)
@@ -21542,7 +22510,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
 			(at 468.3252 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -21553,7 +22521,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ca/datasheet/3/3655/1/ZLJ.pdf"
 			(at 467.36 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -21566,6 +22534,17 @@
 		)
 		(property "Description" "Polarized capacitor"
 			(at 467.36 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Rubycon 50ZLJ3300M18X35.5"
+			(at 467.36 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21622,7 +22601,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 285.75 373.888 90)
 			(hide yes)
 			(show_name no)
@@ -21633,7 +22612,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773218&DocType=DS&DocLang=English"
 			(at 285.75 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -21646,6 +22625,17 @@
 		)
 		(property "Description" "Fuse"
 			(at 285.75 372.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "TE Connectivity FRN25JR47"
+			(at 285.75 372.11 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21705,7 +22695,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "local_amp_footprints:TO-3PL_TOS"
 			(at 447.04 212.725 0)
 			(hide yes)
 			(show_name no)
@@ -21753,6 +22743,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=B 2=C 3=E"
+			(at 441.96 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" ""
 			(at 441.96 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -21873,6 +22874,17 @@
 				)
 			)
 		)
+		(property "mfr_id" ""
+			(at 189.23 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f5793ee6-c454-41aa-a424-8d5eb6c6f16b")
 		)
@@ -21925,7 +22937,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W5.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 215.5952 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -21936,7 +22948,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.wima.de/wp-content/uploads/media/e_WIMA_FKP_2.pdf"
 			(at 214.63 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -21948,6 +22960,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 214.63 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "WIMA FKP2J014701I00HSSD"
 			(at 214.63 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -22004,7 +23027,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 68.58 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -22027,6 +23050,17 @@
 			)
 		)
 		(property "Description" "Zener diode"
+			(at 68.58 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
 			(at 68.58 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -22164,7 +23198,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 163.068 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -22175,7 +23209,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 161.29 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -22187,6 +23221,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 161.29 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-22R"
 			(at 161.29 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -22322,7 +23367,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P20.32mm_Horizontal"
 			(at 54.61 192.532 90)
 			(hide yes)
 			(show_name no)
@@ -22333,7 +23378,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.koaspeer.com/pdfs/MOS.pdf"
 			(at 54.61 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -22346,6 +23391,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 54.61 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "KOA MOS3CT631R562J"
+			(at 54.61 194.31 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22404,7 +23460,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 193.548 251.46 90)
 			(hide yes)
 			(show_name no)
@@ -22415,7 +23471,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 191.77 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -22427,6 +23483,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 191.77 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-22R"
 			(at 191.77 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -22484,7 +23551,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W5.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 396.24 205.4352 0)
 			(hide yes)
 			(show_name no)
@@ -22495,7 +23562,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.wima.de/wp-content/uploads/media/e_WIMA_FKP_2.pdf"
 			(at 392.43 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -22508,6 +23575,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 392.43 204.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "WIMA FKP2D016801G00HA00"
+			(at 392.43 204.47 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22624,6 +23702,17 @@
 				)
 			)
 		)
+		(property "mfr_id" ""
+			(at 158.75 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b0f1c71e-5def-4fdf-a33e-21cb9937b67e")
 		)
@@ -22676,7 +23765,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 419.862 193.04 90)
 			(hide yes)
 			(show_name no)
@@ -22687,7 +23776,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 421.64 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -22699,6 +23788,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 421.64 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FRE52-390R"
 			(at 421.64 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -22756,7 +23856,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 92.71 82.8548 0)
 			(hide yes)
 			(show_name no)
@@ -22767,7 +23867,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.wima.de/wp-content/uploads/media/e_WIMA_FKP_2.pdf"
 			(at 88.9 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -22780,6 +23880,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 88.9 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "WIMA FKP2D003301D00HA00"
+			(at 88.9 83.82 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22838,7 +23949,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 163.068 283.21 90)
 			(hide yes)
 			(show_name no)
@@ -22849,7 +23960,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 161.29 283.21 0)
 			(hide yes)
 			(show_name no)
@@ -22861,6 +23972,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 161.29 283.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-22R"
 			(at 161.29 283.21 0)
 			(hide yes)
 			(show_name no)
@@ -23057,6 +24179,17 @@
 				)
 			)
 		)
+		(property "mfr_id" ""
+			(at 382.27 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1ec9ed43-04ec-4e73-937f-2916a0ef4793")
 		)
@@ -23108,7 +24241,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 482.6 160.528 90)
 			(hide yes)
 			(show_name no)
@@ -23119,7 +24252,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 482.6 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -23131,6 +24264,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 482.6 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FRE52-330R"
 			(at 482.6 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -23238,6 +24382,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=E 2=C 3=B"
+			(at 251.46 276.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" ""
 			(at 251.46 276.86 0)
 			(hide yes)
 			(show_name no)
@@ -23379,7 +24534,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "local_amp_footprints:TO-3PL_TOS"
 			(at 469.9 150.495 0)
 			(hide yes)
 			(show_name no)
@@ -23427,6 +24582,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=B 2=C 3=E"
+			(at 464.82 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" ""
 			(at 464.82 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -23488,7 +24654,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-126-3_Vertical"
+		(property "Footprint" "local_amp_footprints:TO-126_TOS"
 			(at 351.79 229.235 0)
 			(hide yes)
 			(show_name no)
@@ -23537,6 +24703,17 @@
 		)
 		(property "Sim.Pins" "1=E 2=C 3=B"
 			(at 346.71 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" ""
+			(at 346.71 227.33 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23675,7 +24852,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 139.7 166.878 90)
 			(hide yes)
 			(show_name no)
@@ -23686,7 +24863,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 139.7 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -23699,6 +24876,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 139.7 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-15K"
+			(at 139.7 165.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23833,7 +25021,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 63.5 34.5948 0)
 			(hide yes)
 			(show_name no)
@@ -23844,7 +25032,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ca/datasheet/3/497/1/e_ukz.pdf"
 			(at 59.69 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -23857,6 +25045,17 @@
 		)
 		(property "Description" "Polarized capacitor"
 			(at 59.69 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Nichicon UKZ2A100MPM"
+			(at 59.69 35.56 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24130,6 +25329,17 @@
 				)
 			)
 		)
+		(property "mfr_id" ""
+			(at 251.46 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cb911237-6523-466a-a8b8-192e76bf663f")
 		)
@@ -24258,7 +25468,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal"
 			(at 191.77 363.982 90)
 			(hide yes)
 			(show_name no)
@@ -24269,7 +25479,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.koaspeer.com/pdfs/MOS.pdf"
 			(at 191.77 365.76 0)
 			(hide yes)
 			(show_name no)
@@ -24282,6 +25492,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 191.77 365.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "KOA MOS2CT52R1000F"
+			(at 191.77 365.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24340,7 +25561,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "local_amp_footprints:TO-220_2-10R1A_TOS"
 			(at 405.13 216.535 0)
 			(hide yes)
 			(show_name no)
@@ -24388,6 +25609,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=B 2=C 3=E"
+			(at 400.05 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" ""
 			(at 400.05 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -24497,6 +25729,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=E 2=C 3=B"
+			(at 382.27 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" ""
 			(at 382.27 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -24639,7 +25882,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 			(at 359.41 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -24663,6 +25906,17 @@
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
 			(at 359.41 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" ""
+			(at 359.41 143.51 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24797,7 +26051,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 196.215 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -24843,6 +26097,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 191.77 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 191.77 223.52 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24901,7 +26166,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W5.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 215.5952 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -24912,7 +26177,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.wima.de/wp-content/uploads/media/e_WIMA_FKP_2.pdf"
 			(at 214.63 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -24924,6 +26189,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 214.63 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "WIMA FKP2J014701I00HSSD"
 			(at 214.63 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -25061,7 +26337,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal"
 			(at 392.43 248.412 90)
 			(hide yes)
 			(show_name no)
@@ -25072,7 +26348,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.koaspeer.com/pdfs/MOS.pdf"
 			(at 392.43 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -25084,6 +26360,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 392.43 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "KOA MOS2CT52R1000F"
 			(at 392.43 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -25141,7 +26428,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 139.7 108.458 90)
 			(hide yes)
 			(show_name no)
@@ -25152,7 +26439,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 139.7 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -25165,6 +26452,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 139.7 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-100R"
+			(at 139.7 106.68 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25220,7 +26518,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm"
 			(at 378.7648 254 0)
 			(hide yes)
 			(show_name no)
@@ -25231,7 +26529,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/catalog/specsheets/Panasonic_08082018_Capacitor%20Radial%20Leaded%20Lytic%20(EEU-FS)%20020118.pdf"
 			(at 379.73 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -25244,6 +26542,17 @@
 		)
 		(property "Description" "Polarized capacitor"
 			(at 379.73 257.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Panasonic EEU-FS2A331L"
+			(at 379.73 257.81 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25300,7 +26609,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 43.18 37.338 90)
 			(hide yes)
 			(show_name no)
@@ -25311,7 +26620,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 43.18 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -25324,6 +26633,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 43.18 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FRE52-470R"
+			(at 43.18 35.56 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25382,7 +26702,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 234.95 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -25406,6 +26726,17 @@
 		)
 		(property "Description" "Zener diode"
 			(at 234.95 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 234.95 227.33 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25463,7 +26794,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 85.852 273.05 90)
 			(hide yes)
 			(show_name no)
@@ -25474,7 +26805,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 87.63 273.05 0)
 			(hide yes)
 			(show_name no)
@@ -25486,6 +26817,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 87.63 273.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-33K"
 			(at 87.63 273.05 0)
 			(hide yes)
 			(show_name no)
@@ -25542,7 +26884,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
 			(at 110.49 108.458 90)
 			(hide yes)
 			(show_name no)
@@ -25553,7 +26895,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/31018/cmfind.pdf"
 			(at 110.49 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -25566,6 +26908,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 110.49 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Vishay Dale CMF50332R00FHEB"
+			(at 110.49 106.68 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25702,7 +27055,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 51.308 43.18 90)
 			(hide yes)
 			(show_name no)
@@ -25713,7 +27066,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 49.53 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -25725,6 +27078,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 49.53 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-270K"
 			(at 49.53 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -25784,7 +27148,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 193.548 261.62 90)
 			(hide yes)
 			(show_name no)
@@ -25795,7 +27159,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 191.77 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -25807,6 +27171,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 191.77 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-22R"
 			(at 191.77 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -25866,7 +27241,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal"
 			(at 392.43 114.808 90)
 			(hide yes)
 			(show_name no)
@@ -25877,7 +27252,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.koaspeer.com/pdfs/MOS.pdf"
 			(at 392.43 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -25889,6 +27264,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 392.43 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "KOA MOS2CT52R1000F"
 			(at 392.43 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -26164,6 +27550,17 @@
 				)
 			)
 		)
+		(property "mfr_id" ""
+			(at 251.46 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "57989d48-a9fb-45cf-a089-1e255069062e")
 		)
@@ -26373,7 +27770,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 276.352 224.79 90)
 			(hide yes)
 			(show_name no)
@@ -26384,7 +27781,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/28737/nfr25.pdf"
 			(at 278.13 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -26396,6 +27793,17 @@
 			)
 		)
 		(property "Description" "Fuse"
+			(at 278.13 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Vishay NFR25H0001500JR500"
 			(at 278.13 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -26453,7 +27861,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P20.32mm_Horizontal"
 			(at 54.61 306.832 90)
 			(hide yes)
 			(show_name no)
@@ -26464,7 +27872,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 54.61 308.61 0)
 			(hide yes)
 			(show_name no)
@@ -26477,6 +27885,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 54.61 308.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "KOA MOS3CT631R562J"
+			(at 54.61 308.61 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26613,7 +28032,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 419.1 210.058 90)
 			(hide yes)
 			(show_name no)
@@ -26624,7 +28043,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 419.1 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -26636,6 +28055,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 419.1 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FRE52-2R2"
 			(at 419.1 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -26695,7 +28125,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 234.95 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -26719,6 +28149,17 @@
 		)
 		(property "Description" "Zener diode"
 			(at 234.95 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 234.95 135.89 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26777,7 +28218,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 163.068 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -26788,7 +28229,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 161.29 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -26800,6 +28241,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 161.29 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-22R"
 			(at 161.29 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -26857,7 +28309,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 64.77 293.6748 0)
 			(hide yes)
 			(show_name no)
@@ -26868,7 +28320,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ca/datasheet/3/497/1/e_uka.pdf"
 			(at 68.58 294.64 0)
 			(hide yes)
 			(show_name no)
@@ -26881,6 +28333,17 @@
 		)
 		(property "Description" "Polarized capacitor"
 			(at 68.58 294.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Nichicon UKA1H101MPD"
+			(at 68.58 294.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26939,7 +28402,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Box_L14.0mm_W5.0mm_P9.00mm"
 			(at 469.138 193.04 90)
 			(hide yes)
 			(show_name no)
@@ -26950,7 +28413,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.koaspeer.com/pdfs/BPR.pdf"
 			(at 467.36 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -26962,6 +28425,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 467.36 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "KOA BPR58CR22J"
 			(at 467.36 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -27021,7 +28495,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "local_amp_footprints:TO-126_TOS"
 			(at 351.79 183.515 0)
 			(hide yes)
 			(show_name no)
@@ -27069,6 +28543,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=E 2=C 3=B"
+			(at 346.71 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" ""
 			(at 346.71 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -27131,7 +28616,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 482.6 202.692 90)
 			(hide yes)
 			(show_name no)
@@ -27142,7 +28627,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 482.6 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -27154,6 +28639,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 482.6 204.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FRE52-330R"
 			(at 482.6 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -27211,7 +28707,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 139.7 316.738 90)
 			(hide yes)
 			(show_name no)
@@ -27222,7 +28718,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 139.7 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -27235,6 +28731,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 139.7 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-15K"
+			(at 139.7 314.96 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27293,7 +28800,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 325.12 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -27317,6 +28824,17 @@
 		)
 		(property "Description" "Zener diode"
 			(at 325.12 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 325.12 236.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27373,7 +28891,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
 			(at 226.06 316.738 90)
 			(hide yes)
 			(show_name no)
@@ -27384,7 +28902,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/31018/cmfind.pdf"
 			(at 226.06 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -27397,6 +28915,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 226.06 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Vishay Dale CMF504K4200FHEB"
+			(at 226.06 314.96 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27455,7 +28984,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 216.408 73.66 90)
 			(hide yes)
 			(show_name no)
@@ -27466,7 +28995,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 214.63 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -27478,6 +29007,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 214.63 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-5K6"
 			(at 214.63 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -27536,7 +29076,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 46.99 251.7648 0)
 			(hide yes)
 			(show_name no)
@@ -27547,7 +29087,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.ca/datasheet/3/497/1/e_ues.pdf"
 			(at 50.8 252.73 0)
 			(hide yes)
 			(show_name no)
@@ -27560,6 +29100,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 50.8 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Nichicon UES1H100MPM"
+			(at 50.8 252.73 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27616,7 +29167,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DIP8_NWJ"
+		(property "Footprint" "local_amp_footprints:DIP8_NMD"
 			(at 74.168 282.702 0)
 			(hide yes)
 			(show_name no)
@@ -27642,6 +29193,17 @@
 		)
 		(property "Description" ""
 			(at 78.74 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" ""
+			(at 80.01 214.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27718,7 +29280,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 380.365 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -27764,6 +29326,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 384.81 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 384.81 142.24 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27822,7 +29395,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 440.055 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -27868,6 +29441,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 444.5 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 444.5 238.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27926,7 +29510,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 234.95 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -27950,6 +29534,17 @@
 		)
 		(property "Description" "Zener diode"
 			(at 234.95 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 234.95 77.47 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28066,6 +29661,17 @@
 				)
 			)
 		)
+		(property "mfr_id" ""
+			(at 189.23 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "12b3427a-c35d-4de2-898b-20358260bc5e")
 		)
@@ -28118,7 +29724,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 360.3752 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -28129,7 +29735,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1054_HIVOLT_GOLDMAX_300_C0G"
 			(at 359.41 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -28141,6 +29747,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 359.41 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "KEMET C322C331JCG5TA"
 			(at 359.41 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -28200,7 +29817,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 196.215 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -28246,6 +29863,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 191.77 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 191.77 73.66 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28440,6 +30068,17 @@
 				)
 			)
 		)
+		(property "mfr_id" ""
+			(at 158.75 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0c4873b9-86db-4cc5-a633-e18eb0fd3a7b")
 		)
@@ -28570,7 +30209,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 276.352 288.29 90)
 			(hide yes)
 			(show_name no)
@@ -28581,7 +30220,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/28737/nfr25.pdf"
 			(at 278.13 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -28593,6 +30232,17 @@
 			)
 		)
 		(property "Description" "Fuse"
+			(at 278.13 288.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "Vishay NFR25H0001500JR500"
 			(at 278.13 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -28653,7 +30303,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "local_amp_footprints:TO-3PL_TOS"
 			(at 447.04 150.495 0)
 			(hide yes)
 			(show_name no)
@@ -28701,6 +30351,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=B 2=C 3=E"
+			(at 441.96 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" ""
 			(at 441.96 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -28821,6 +30482,17 @@
 				)
 			)
 		)
+		(property "mfr_id" ""
+			(at 189.23 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2f3e4bd5-7f14-456d-99e4-b133918aa84a")
 		)
@@ -28873,7 +30545,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 234.95 285.75 0)
 			(hide yes)
 			(show_name no)
@@ -28897,6 +30569,17 @@
 		)
 		(property "Description" "Zener diode"
 			(at 234.95 285.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "* CHANGE"
+			(at 234.95 285.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28955,7 +30638,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W5.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 215.5952 285.75 0)
 			(hide yes)
 			(show_name no)
@@ -28966,7 +30649,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.wima.de/wp-content/uploads/media/e_WIMA_FKP_2.pdf"
 			(at 214.63 281.94 0)
 			(hide yes)
 			(show_name no)
@@ -28978,6 +30661,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 214.63 281.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "WIMA FKP2J014701I00HSSD"
 			(at 214.63 281.94 0)
 			(hide yes)
 			(show_name no)
@@ -29115,7 +30809,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 433.07 202.692 90)
 			(hide yes)
 			(show_name no)
@@ -29126,7 +30820,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 433.07 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -29138,6 +30832,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 433.07 204.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-680R"
 			(at 433.07 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -29197,7 +30902,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 193.548 132.08 90)
 			(hide yes)
 			(show_name no)
@@ -29208,7 +30913,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/YAGEO-MF0_DATASHEET"
 			(at 191.77 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -29220,6 +30925,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 191.77 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mfr_id" "YAGEO MF0207FTE52-2K4"
 			(at 191.77 132.08 0)
 			(hide yes)
 			(show_name no)
