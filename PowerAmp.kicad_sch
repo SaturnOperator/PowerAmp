@@ -12868,7 +12868,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local_amp_footprints:TO-3PL_TOS"
+		(property "Footprint" "Package_TO_SOT_THT:TO-3P-3_Vertical"
 			(at 469.9 212.725 0)
 			(hide yes)
 			(show_name no)
@@ -14753,7 +14753,7 @@
 				)
 			)
 		)
-		(property "Footprint" "local_amp_footprints:DIP8_NMD"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 65.532 162.052 0)
 			(hide yes)
 			(show_name no)
@@ -19438,7 +19438,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "local_amp_footprints:TO-126_TOS"
+		(property "Footprint" "Package_TO_SOT_THT:TO-126-3_Vertical"
 			(at 351.79 133.985 0)
 			(hide yes)
 			(show_name no)
@@ -21186,7 +21186,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local_amp_footprints:TO-220_2-10R1A_TOS"
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
 			(at 405.13 150.495 0)
 			(hide yes)
 			(show_name no)
@@ -22695,7 +22695,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local_amp_footprints:TO-3PL_TOS"
+		(property "Footprint" "Package_TO_SOT_THT:TO-3P-3_Vertical"
 			(at 447.04 212.725 0)
 			(hide yes)
 			(show_name no)
@@ -24534,7 +24534,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local_amp_footprints:TO-3PL_TOS"
+		(property "Footprint" "Package_TO_SOT_THT:TO-3P-3_Vertical"
 			(at 469.9 150.495 0)
 			(hide yes)
 			(show_name no)
@@ -24654,7 +24654,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local_amp_footprints:TO-126_TOS"
+		(property "Footprint" "Package_TO_SOT_THT:TO-126-3_Vertical"
 			(at 351.79 229.235 0)
 			(hide yes)
 			(show_name no)
@@ -25561,7 +25561,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local_amp_footprints:TO-220_2-10R1A_TOS"
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
 			(at 405.13 216.535 0)
 			(hide yes)
 			(show_name no)
@@ -28495,7 +28495,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local_amp_footprints:TO-126_TOS"
+		(property "Footprint" "Package_TO_SOT_THT:TO-126-3_Vertical"
 			(at 351.79 183.515 0)
 			(hide yes)
 			(show_name no)
@@ -29167,7 +29167,7 @@
 				)
 			)
 		)
-		(property "Footprint" "local_amp_footprints:DIP8_NMD"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 74.168 282.702 0)
 			(hide yes)
 			(show_name no)
@@ -30303,7 +30303,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local_amp_footprints:TO-3PL_TOS"
+		(property "Footprint" "Package_TO_SOT_THT:TO-3P-3_Vertical"
 			(at 447.04 150.495 0)
 			(hide yes)
 			(show_name no)
