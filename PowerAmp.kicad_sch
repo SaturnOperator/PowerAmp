@@ -5163,156 +5163,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:VAC"
-			(power global)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "#PWR"
-				(at 0 -2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "VAC"
-				(at 0 6.35 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"VAC\""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "VAC_0_1"
-				(arc
-					(start -1.27 3.175)
-					(mid -0.635 3.8073)
-					(end 0 3.175)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 3.175)
-					(radius 1.905)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 1.27 3.175)
-					(mid 0.635 2.5427)
-					(end 0 3.175)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "VAC_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 	)
 	(text "+"
 		(exclude_from_sim no)
@@ -5965,12 +5815,6 @@
 		(uuid "a8783e87-b51b-446a-91a6-98de69c4f380")
 	)
 	(junction
-		(at 300.99 374.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a91c6142-6eee-4011-9982-7fefc1a2791b")
-	)
-	(junction
 		(at 501.65 227.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6269,12 +6113,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f89cd430-01d6-468c-8983-ec901d39c8f9")
-	)
-	(junction
-		(at 313.69 372.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fb158136-af76-4c5b-b5c9-40f91a669a08")
 	)
 	(junction
 		(at 501.65 189.23)
@@ -6721,16 +6559,6 @@
 			(type default)
 		)
 		(uuid "13c04619-4413-4431-9688-c35b73e13b43")
-	)
-	(wire
-		(pts
-			(xy 313.69 363.22) (xy 313.69 372.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14add89f-6ae3-40c7-a380-7a5aa2447160")
 	)
 	(wire
 		(pts
@@ -7454,7 +7282,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 372.11) (xy 313.69 372.11)
+			(xy 289.56 372.11) (xy 325.12 372.11)
 		)
 		(stroke
 			(width 0)
@@ -7744,16 +7572,6 @@
 	)
 	(wire
 		(pts
-			(xy 313.69 372.11) (xy 325.12 372.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "456e2bc5-a915-4267-9e76-6d083e1f914b")
-	)
-	(wire
-		(pts
 			(xy 34.29 252.73) (xy 34.29 265.43)
 		)
 		(stroke
@@ -7901,16 +7719,6 @@
 			(type default)
 		)
 		(uuid "4aaeefa3-20b9-4899-ad5b-5edc289e7aad")
-	)
-	(wire
-		(pts
-			(xy 300.99 363.22) (xy 300.99 374.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4af49bd7-3db6-44c3-b382-8094ff25552f")
 	)
 	(wire
 		(pts
@@ -12756,84 +12564,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VAC")
-		(at 300.99 363.22 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0bf522be-4933-47c4-9314-53838133f5f7")
-		(property "Reference" "#PWR037"
-			(at 300.99 365.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "59 VAC"
-			(at 300.99 355.6 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 300.99 363.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 300.99 363.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VAC\""
-			(at 300.99 363.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "65f28a76-3dad-494c-bbe9-6c2e9c97dbdf")
-		)
-		(instances
-			(project "PowerAmp"
-				(path "/f3a40bfa-83f5-46f5-84c7-bcd44139818c"
-					(reference "#PWR037")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_name "2SA1015_3")
 		(lib_id "Transistor_BJT:2SA1015")
 		(at 464.82 214.63 0)
@@ -17052,84 +16782,6 @@
 			(project "PowerAmp"
 				(path "/f3a40bfa-83f5-46f5-84c7-bcd44139818c"
 					(reference "C25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VAC")
-		(at 313.69 363.22 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4d418491-3c3c-4d1e-be3b-a4f5399adf92")
-		(property "Reference" "#PWR038"
-			(at 313.69 365.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "59 VAC"
-			(at 313.69 355.6 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 313.69 363.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 313.69 363.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VAC\""
-			(at 313.69 363.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d9f65aa3-affd-48ed-9bbd-b9f4ac6922b1")
-		)
-		(instances
-			(project "PowerAmp"
-				(path "/f3a40bfa-83f5-46f5-84c7-bcd44139818c"
-					(reference "#PWR038")
 					(unit 1)
 				)
 			)
